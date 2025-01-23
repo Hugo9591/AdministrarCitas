@@ -42,7 +42,7 @@ La aplicación utiliza JavaScript con clases para la lógica y Tailwind CSS para
 
 ## Instalación
 1. Clona este repositorio:
-git clone https://github.com/Hugo9591/AdministrarCitas.git
+git clone https://github.com/Hugo9591/AdministrarCitasLocalStorage.git
 
 2. Abre el archivo index.html en tu navegador para iniciar la aplicación.
 
@@ -50,7 +50,7 @@ git clone https://github.com/Hugo9591/AdministrarCitas.git
 1. Registra un paciente llamado "Max" con los datos:
 2. Propietario: Ana Pérez
 3. Email: ana@mail.com
-4. Fecha: 2025-01-01
+4. Fecha: 01/01/2024
 5. Síntomas: Fiebre y vómito.
 6. Edita los datos para cambiar los síntomas a "Pérdida de apetito".
 7. Elimina el registro de "Max" si ya no es necesario.
